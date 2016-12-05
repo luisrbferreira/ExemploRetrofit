@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "72778193548",
+    "firebase_url": "https://monitoramento-fila-sms.firebaseio.com",
+    "project_id": "monitoramento-fila-sms",
+    "storage_bucket": "monitoramento-fila-sms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72778193548:android:3c025eae537a21a6",
+        "android_client_info": {
+          "package_name": "br.com.conecttasoftwares.exemploretrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72778193548-s3nhd1bjkka61ebjl5dd7hpag81m9v8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHDgWpH1NcQZhl2mNlbUmMozRp-h43Li4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
